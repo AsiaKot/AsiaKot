@@ -1,18 +1,11 @@
 ## Hello World, I'm Joanna 👋🌍
 
-* 📝 About me ...
-
-I've decided to change my career path and that's why I've been <b>learning programming intensively</b> for the last few months. I have to admit that I LOVE it 😍 
+* 📝 <i>About me ...</i> I've decided to change my career path and that's why I've been <b>learning programming intensively</b> for the last few months. I have to admit that I LOVE it 😍 
 I took both: Python programming course and 1:1 mentoring sessions. 
 
-* ❤ I love programming for ...
+* ❤ <i>I love programming for ...</i>  giving me an endless opportunities to develop and challange myself, to create something, to improve my problem-solving skills. It basically changes the way I think!
 
-... giving me an endless opportunities to develop and challange myself, to create something, to improve my problem-solving skills. It basically changes the way I think!
-
-
-* 😃 I’m looking forward to ...
-
-... facing the new challanges! I'm very excited to start a new chapter. Although I don't have any commercial experience yet, <b>I'd love to get a Junior Developer position</b> to gain more skills and knowledge in practice.
+* 😃 <i>I’m looking forward to ... </i> facing the new challanges! I'm very excited to start a new chapter. Although I don't have any commercial experience yet, <b>I'd love to get a Junior Developer position</b> to gain more skills and knowledge in practice.
 
 -------------
 
@@ -30,12 +23,8 @@ I took both: Python programming course and 1:1 mentoring sessions.
 
 -------------
 
-### Get in touch 💬🗨
+### Feel free to contact me here: 💬🗨
 
-* 📫 Feel free to contact me here:
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanna-kotwasinska/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joanna.kotwasinska@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanna-kotwasinska/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joanna.kotwasinska@gmail.com)
 
 
