@@ -10,7 +10,7 @@ career switch in 2021 — and never looked back.
 - **Frameworks:** Flask, FastAPI
 - **Databases:** SQL, PostgreSQL, SQLAlchemy
 - **Tools:** Git, GitHub, Docker, REST APIs
-- **Currently exploring:** Celery, Redis, async Python
+- **Currently exploring:** Celery, Redis, TDD, dependency injection, async architecture
 
 ## 💼 Experience
 
@@ -21,8 +21,8 @@ hardware testing workflows.
 
 ## 🚀 Portfolio
 
-- [Finance Tracker API](https://github.com/AsiaKot/finance-tracker-api) — FastAPI · PostgreSQL · 
-  SQLAlchemy · Celery · Redis · Docker
+- [Finance Tracker API](https://github.com/AsiaKot/finance-tracker-api) — FastAPI · PostgreSQL · SQLAlchemy · Celery · Redis · Docker · JWT · pytest
+Production-ready REST API with async architecture, JWT authentication, background task processing, and a TDD test suite.
 
 ## 📫 Contact
 
