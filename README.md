@@ -21,7 +21,7 @@ hardware testing workflows.
 
 ## 🚀 Portfolio
 
-- [Finance Tracker API](link) — FastAPI · PostgreSQL · 
+- [Finance Tracker API]([link](https://github.com/AsiaKot/finance-tracker-api)) — FastAPI · PostgreSQL · 
   SQLAlchemy · Celery · Redis · Docker
 
 ## 📫 Contact
